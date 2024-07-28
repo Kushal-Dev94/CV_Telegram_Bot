@@ -5,7 +5,7 @@ A simple Telegram bot that serves as an interactive CV/resume.
 ## Quick Start
 
 1. Download or Clone the repository:
-   git clone https://github.com/0msm0/telegram-cv-bot-ndmvpt.git
+   git clone https://github.com/Kushal-Dev94/CV_Telegram_Bot.git
    cd telegram-cv-bot
 
 2. Create virtual environment with `python -m venv venv`
